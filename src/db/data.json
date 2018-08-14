@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "id": "Aatrox",
+      "name": "Aatrox",
+      "img": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Aatrox_0.jpg",
+      "info": {
+          "attack": 8,
+          "defense": 4,
+          "magic": 3,
+          "difficulty": 4
+      },
+      "tags": [
+          "Fighter",
+          "Tank"
+      ]
+    },
+    {
+      "id": "Ahri",
+      "name": "Ahri",
+      "img": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ahri_0.jpg",
+      "info": {
+          "attack": 3,
+          "defense": 4,
+          "magic": 8,
+          "difficulty": 5
+      },
+      "tags": [
+          "Mage",
+          "Assassin"
+      ]
+    },
+    {
+      "id": "Riven",
+      "name": "Riven",
+      "img": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Riven_0.jpg",
+      "info": {
+          "attack": 8,
+          "defense": 5,
+          "magic": 1,
+          "difficulty": 8
+      },
+      "tags": [
+          "Fighter",
+          "Assassin"
+      ]
+    },
+    {
+      "id": "Irelia",
+      "name": "Irelia",
+      "img": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Irelia_0.jpg",
+      "info": {
+          "attack": 7,
+          "defense": 4,
+          "magic": 5,
+          "difficulty": 5
+      },
+      "tags": [
+          "Fighter",
+          "Assassin"
+      ]
+    }
+  ]
+}
